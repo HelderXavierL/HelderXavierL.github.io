@@ -37,7 +37,7 @@ const animeScroll = () => {
             element.classList.remove("animate");
         }
     });
-}
+};
 
 animeScroll();
 
